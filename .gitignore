@@ -1,0 +1,5 @@
+/.idea
+/app/*/.env
+.env
+/rpc_gen
+/test
